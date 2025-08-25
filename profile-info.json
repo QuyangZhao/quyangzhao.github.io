@@ -1,0 +1,36 @@
+{
+  "name": "Quyang Zhao",
+  "subtitle": "MSc(Research) & BSc in Communication Science @ University of Amsterdam <br> Research Assistant @ Amsterdam School of Communication Research<br><br> 📍 Amsterdam, the Netherlands <br><br> 🐱 🎬 🎵 📸️",
+  "socialLinks": [
+    {
+      "type": "email",
+      "url": "mailto: q.zhao17@outlook.com",
+      "icon": "<i class=\"fas fa-envelope\"></i>"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/quyang-zhao-553903191/",
+      "icon": "<i class=\"fab fa-linkedin\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/QuyangZhao",
+      "icon": "<i class=\"fab fa-github\"></i>",
+      "target": "_blank"
+    },
+    {
+      "type": "OSF",
+      "url": "https://osf.io/a2cu5/",
+      "icon": "<img src=\"assets/osf.svg\" alt=\"OSF\" class=\"icon-svg\">",
+      "target": "_blank"
+    },
+    {
+      "type": "ORCiD",
+      "url": "https://orcid.org/0009-0006-2116-1534",
+      "icon": "<i class=\"fab fa-orcid\"></i>",
+      "target": "_blank"
+    }
+  ],
+  "profileImage": "assets/profile.jpg"
+} 
